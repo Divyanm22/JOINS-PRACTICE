@@ -1,0 +1,14 @@
+SELECT emp_no , emp_name ,d_name, location 
+FROM employee 
+RIGHT  JOIN dept 
+ON employee.dept_no = department.dept_no;
+
+
+SELECT 
+  orders.order_id, 
+  deliveries.delivery_id, 
+  deliveries.delivery_date, 
+  deliveries.delivery_status
+FROM orders
+FULL OUTER JOIN deliveries
+  ON orders.order_id = deliveries.order_id;
