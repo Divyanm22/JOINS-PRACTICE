@@ -16,6 +16,10 @@
 
 ##OUTPUT 
 
-![Image](https://github.com/user-attachments/assets/1a48ecf2-a6e0-45df-8557-1359b38d36ff)
+<img width="790" alt="Image" src="https://github.com/user-attachments/assets/80571ac8-a19a-4fde-bb68-6583d236d05b" />
 
-![Image](https://github.com/user-attachments/assets/44614834-4dc5-48af-8510-014a9e60c780)
+<img width="665" alt="Image" src="https://github.com/user-attachments/assets/e18917e8-3d52-427a-9e21-aebd071afa5c" />
+
+<img width="661" alt="Image" src="https://github.com/user-attachments/assets/261e548f-dcd1-4d6a-8003-6e91365460a0" />
+
+![Image](https://github.com/user-attachments/assets/defbcca6-e1b2-4dd1-9af5-6d4e27b74dd7)
